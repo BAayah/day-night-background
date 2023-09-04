@@ -1,0 +1,18 @@
+body {
+    background-color: rebeccapurple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 500px;
+    color: rgb(173, 21, 39);
+    font-size: 30px;   
+}
+/* #toggle {
+    width: 30px;
+    height: 20px;
+    border-radius: 50px;
+} */
+.lamp {
+    background-color: darkkhaki;
+}
